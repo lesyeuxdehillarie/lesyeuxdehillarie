@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lesyeuxdehillarie
 - 👀 I’m interested in learning coding. 
-- 🌱 I’m currently learning C and Java
-- 💞️ I’m looking to collaborate on any projects that can polish my understanding and skills in C
+- 🌱 I’m currently learning C, Python and Java
+- 💞️ I’m looking to collaborate on any projects that can polish my understanding and skills in python especially Data Science, ML and AI projects
 - 📫 How to reach me hanahillnawaali@gmail.com.
 
 <!---
